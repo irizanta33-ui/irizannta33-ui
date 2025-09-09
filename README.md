@@ -1,58 +1,51 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      font-family: monospace;
-      background: #111;
-      color: #0f0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-    .profile {
-      border: 2px solid #0f0;
-      padding: 20px;
-      border-radius: 10px;
-      text-align: left;
-    }
-    .profile h2 {
-      margin: 0;
-      padding-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
-  <div class="profile">
-    <h2>Profil Singkat</h2>
-    <p>Nama    : Rizanta</p>
-    <p>Profesi : Digital Creator</p>
-    <p>Project : Rizanta Planner</p>
-    <p>Hobi    : Membaca | Coding | Desain</p>
-    <p>Motto   : "Sederhana tapi Bermakna"</p>
-  </div>
-</body>
-</html>
+<h1 align="center">🚀 Welcome to My GitHub Profile</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=Digital+Creator;Indie+Developer;Always+Learning+📚" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+💡 Building: Rizanta Planner (to-do list + daily quotes)
+🎨 Passion: Design, psychology, and productivity tools
+🌱 Always exploring: coding, business, and open source
+
+---
+
+### ⚡ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Rizanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizantaQC&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RizantaQC&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizantaQC&theme=radical" height="165"/>
+</p>
 
 ---
 
-### 🎯 Fun Facts
-- Likes philosophy quotes every morning  
-- Enjoys creating minimalist designs  
-- Collects cool fonts & batik patterns 🦋  
+### 🎯 Fun Side
+- 📖 Loves reading philosophy quotes every morning  
+- 🎨 Collects minimalist design & batik inspirations  
+- 🔥 Enjoys experimenting with side projects  
 
 ---
 
-### 📫 Connect with me
-[![Gmail Badge](https://img.shields.io/badge/-rizantaqc@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rizantaqc@gmail.com)  
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com)  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com)  
+### 📫 Reach Me
+<p>
+  <a href="mailto:rizantaqc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 ---
-⭐️ From [RizantaQC](https://github.com/RizantaQC)
+
+⭐ From [RizantaQC](https://github.com/RizantaQC)
