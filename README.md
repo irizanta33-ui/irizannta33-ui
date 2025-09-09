@@ -7,7 +7,7 @@
 ---
 
 ### 🧑‍💻 About Me
-💡 Building: Rizanta Planner (to-do list + daily quotes)
+💡 Building: irizanta crypto news
 🎨 Passion: Design, psychology, and productivity tools
 🌱 Always exploring: coding, business, and open source
 
@@ -48,4 +48,4 @@
 
 ---
 
-⭐ From [RizantaQC](https://github.com/RizantaQC)
+⭐ From [irizanta33-ui](https://github.com/irizanta33-ui)
